@@ -2,7 +2,7 @@
   "name": "build-container-sync",
   "version": "1.0.0",
   "bin": {
-    "build-container-sync": "build-sync"
+    "build-container-sync": "build-sync.js"
   },
   "description": "Keeps a server's docker images in sync with https://github.com/iojs/build-containers",
   "main": "index.js",
